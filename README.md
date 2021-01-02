@@ -6,8 +6,8 @@ The program will give out detailed information of every step mentioned in the pa
 This includes images with marking of the contact point, tangent, plate surface etc.
 
 ## 1. Pre-Requisites
-  Windows 10 Operating System 64 bit
-  dot NET 5.0 desktop runtime (link)
+ - Windows 10 Operating System 64 bit
+ - dot NET 5.0 desktop runtime (link)
 
 ## 2. Installation
   Download the zip file with all required files and follow the tutorial.
