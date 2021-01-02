@@ -2,7 +2,9 @@
 
 ## Description
 This is a computer program written in C# to estimate the contact angle automatically from the atomic information from a XYZ file.
+
 The program will give out detailed information of every step mentioned in the paper if debug keyword is turned on.
+
 This includes images with marking of the contact point, tangent, plate surface etc.
 
 ## 1. Pre-Requisites
