@@ -1,0 +1,316 @@
+plate = 2, water = 1, rcut = 10
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.04.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.048
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 64.377
+x_com = 0.1315631283104686, y_com = 58.324700250922724
+maxcount of neighbors = 41
+Fitted values xc = 74.8792959625369, yc = 74.34606162889423, zc = 32.95440820446166
+Radius, R = 25.99855705246426
+Contact point = <74.8792959625369 , 6 >
+Contact angle = 180
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.08.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 149.94099999999997
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 73.425
+x_com = 141.86122342175383, y_com = 82.05672531308652
+maxcount of neighbors = 42
+Fitted values xc = 75.32324657156465, yc = 74.21261894745395, zc = 32.66141489264688
+Radius, R = 26.04691387845255
+Contact point = <75.32324657156465 , 6 >
+Contact angle = 180
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.12.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.054
+ylo = 0, yhi = 148.801
+zlo = 0, zhi = 152.62
+x_com = 128.5014651861955, y_com = 117.78129538226847
+maxcount of neighbors = 41
+Fitted values xc = 75.18968580204698, yc = 74.77922855872633, zc = 28.36362595413481
+Radius, R = 26.336922414108084
+Contact point = <89.10017524096669 , 6 >
+Contact angle = 148.11780763159751
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.16.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 148.5
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 56.3638
+x_com = 75.69507462408596, y_com = 52.29093830317495
+maxcount of neighbors = 42
+Fitted values xc = 74.24199438048966, yc = 74.61002896287077, zc = 26.801242508638587
+Radius, R = 26.280306378080887
+Contact point = <90.30321517539208 , 6 >
+Contact angle = 142.32726620040532
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.20.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 148.5
+ylo = 0, yhi = 150.1172
+zlo = 0, zhi = 180.677
+x_com = 53.56839615959001, y_com = 130.89988961991904
+maxcount of neighbors = 42
+Fitted values xc = 74.26718135511399, yc = 75.49575142401179, zc = 25.259353865041344
+Radius, R = 26.310366219881768
+Contact point = <92.19237756953275 , 6 >
+Contact angle = 137.05485412431383
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.24.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 148.5
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 82.977
+x_com = 69.40079729604352, y_com = 57.633006741005865
+maxcount of neighbors = 41
+Fitted values xc = 74.4579837516174, yc = 73.94638157838457, zc = 21.159065981480772
+Radius, R = 27.16944049548288
+Contact point = <97.00529435414154 , 6 >
+Contact angle = 123.91383137647036
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.28.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.1
+ylo = 0, yhi = 150.059
+zlo = 0, zhi = 51.252
+x_com = 7.431126471731504, y_com = 124.49909571937638
+maxcount of neighbors = 41
+Fitted values xc = 74.90115184110887, yc = 75.01004401104478, zc = 20.116374457684447
+Radius, R = 27.39740185275958
+Contact point = <98.38190141287569 , 6 >
+Contact angle = 121.01383287412472
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.32.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.386
+ylo = 0, yhi = 150.442
+zlo = 0, zhi = 51.895
+x_com = 4.038494324518532, y_com = 15.539131822234758
+maxcount of neighbors = 40
+Fitted values xc = 75.24572702993993, yc = 75.34443866852985, zc = 17.02885899647674
+Radius, R = 28.38288156122982
+Contact point = <101.39820750416328 , 6 >
+Contact angle = 112.86581868164689
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.36.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 149.934
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 45.907
+x_com = 5.5562405271702735, y_com = 97.87543562148741
+maxcount of neighbors = 41
+Fitted values xc = 74.86657609074783, yc = 74.1648603301287, zc = 13.252958662067064
+Radius, R = 29.550565729320972
+Contact point = <103.5132255557248 , 6 >
+Contact angle = 104.2079734683032
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.40.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.062
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 46.076
+x_com = 133.2560591151132, y_com = 63.5467870043557
+maxcount of neighbors = 41
+Fitted values xc = 74.86593878402965, yc = 74.44365775279, zc = 9.537274922726118
+Radius, R = 30.813260238130066
+Contact point = <105.47549109411383 , 6 >
+Contact angle = 96.59192598457678
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.44.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 148.5
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 41.544
+x_com = 70.9641512568723, y_com = 52.05179898387926
+maxcount of neighbors = 41
+Fitted values xc = 73.92187111783288, yc = 74.02575613519203, zc = 4.839962582364142
+Radius, R = 32.997902660719184
+Contact point = <106.89937698465039 , 6 >
+Contact angle = 87.98535844034066
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.48.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.33100000000002
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 168.618
+x_com = 138.38724515924028, y_com = 76.87967904459305
+maxcount of neighbors = 40
+Fitted values xc = 75.07775292773269, yc = 74.2432088808403, zc = 0.45857202945494147
+Radius, R = 35.16744990300232
+Contact point = <109.80586990414588 , 6 >
+Contact angle = 80.93396837587004
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.52.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 148.5
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 37.673
+x_com = 70.45760788486368, y_com = 70.28406718381264
+maxcount of neighbors = 43
+Fitted values xc = 73.91520957397312, yc = 74.52233680960768, zc = 0.1563754681073041
+Radius, R = 34.26670285128455
+Contact point = <107.67996896343855 , 6 >
+Contact angle = 80.18115430454371
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.56.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 149.97500000000002
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 117.604
+x_com = 1.499819913702686, y_com = 58.759889829502065
+maxcount of neighbors = 41
+Fitted values xc = 74.95172044297696, yc = 74.16741293016014, zc = -5.711314783114228
+Radius, R = 38.27509449511833
+Contact point = <111.39109426664533 , 6 >
+Contact angle = 72.18302231949752
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.60.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 149.923
+ylo = 0, yhi = 149.06799999999998
+zlo = 0, zhi = 195.036
+x_com = 136.17416051520567, y_com = 73.29250763306868
+maxcount of neighbors = 42
+Fitted values xc = 74.867419017884, yc = 74.2688916446785, zc = -17.42590464395514
+Radius, R = 45.87416589102217
+Contact point = <114.30935213239226 , 6 >
+Contact angle = 59.29248402844972
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.64.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.11700000000002
+ylo = 0, yhi = 148.924
+zlo = 0, zhi = 140.097
+x_com = 4.304079756022015, y_com = 47.79912656594308
+maxcount of neighbors = 42
+Fitted values xc = 74.9709721248942, yc = 73.807478913666, zc = -19.801169559520783
+Radius, R = 47.33958822312709
+Contact point = <114.66147807400111 , 6 >
+Contact angle = 56.97375715551025
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.68.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.215
+ylo = 0, yhi = 148.5
+zlo = 0, zhi = 28.205
+x_com = 2.8034992741055036, y_com = 57.62511830570554
+maxcount of neighbors = 42
+Fitted values xc = 75.26114399734543, yc = 74.30320257226909, zc = -26.646167641462167
+Radius, R = 52.18053898439526
+Contact point = <115.96785581526979 , 6 >
+Contact angle = 51.27091398062338
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.72.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.252
+ylo = 0, yhi = 150.06400000000002
+zlo = 0, zhi = 173.578
+x_com = 148.29625463313985, y_com = 143.2678011617781
+maxcount of neighbors = 39
+Fitted values xc = 74.49244997750037, yc = 73.84992065260583, zc = -37.90012045376911
+Radius, R = 60.84913333255692
+Contact point = <116.62790359399597 , 6 >
+Contact angle = 43.824976899494835
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.76.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 150.236
+ylo = 0, yhi = 149.63299999999998
+zlo = 0, zhi = 61.384
+x_com = 20.940463240778065, y_com = 2.3166610477804843
+maxcount of neighbors = 37
+Fitted values xc = 76.10258129465403, yc = 77.7166217195215, zc = -51.6896809279141
+Radius, R = 70.32418995284016
+Contact point = <116.3193987589762 , 6 >
+Contact angle = 34.881249135300756
+
+---------------------------------------------------------
+Current file processing: C:\Sumith_Projects\Contact_angle_ACHILIES\data\extracted_0.80.xyz
+Assuming the fileformat [type X Y Z]
+pass 1 completed
+surface location of platinum = 0
+Number of water atoms = 1000
+xlo = 0, xhi = 149.909
+ylo = 0, yhi = 149.902
+zlo = 0, zhi = 98.547
+x_com = 145.23893123564974, y_com = 15.584064549079928
+maxcount of neighbors = 35
+Fitted values xc = 75.0356252779357, yc = 72.5166614166141, zc = -
